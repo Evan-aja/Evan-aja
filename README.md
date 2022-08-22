@@ -21,6 +21,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Turtles belong to one of the oldest reptile groups in the world – beating snakes, crocodiles and alligators!
 
-[![Evan-aja's github stats](https://github-readme-stats.vercel.app/api?username=Evan-aja&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Evan-aja's github stats](https://github-readme-stats.vercel.app/api?username=Evan-aja&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-aja&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-aja&layout=compact&langs_count=10&theme=dracula&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-aja&layout=compact&langs_count=10&theme=dracula&hide=javascript)](https://github.com/anuraghazra/github-readme-stats) -->
+<img src="/github-metrics.svg" alt="Metrics" width="50%" style="display: block;margin-left: auto;margin-right: auto">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="/github-metrics.svg" 
+    alt="Metrics">
+</img>
+<div style="text-align: center;">
+![alt text](https://github.com/Evan-aja/Evan-aja/github-metrics.svg "Metrics")
+</div>
