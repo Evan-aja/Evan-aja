@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-aja&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-aja&layout=compact&langs_count=10&theme=dracula&hide=javascript)](https://github.com/anuraghazra/github-readme-stats) -->
 <img 
-    style="width: 100%;
-           height: 100%;"
+    style="display: block; 
+           margin: 0 auto;
+           width: 100%;"
     src="/github-metrics.svg" 
     alt="Metrics">
 </img>
