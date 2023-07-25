@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm a: Informatics Engineering student in the University of Brawijaya
-- 🌱 I’m currently learning: Rust, GO, and Docker
+- 🌱 I’m currently learning: GO, Docker, and Kubernetes
 - 📫 How to reach me: [instagram](https://www.instagram.com/gabrielevan20/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Turtles belong to one of the oldest reptile groups in the world – beating snakes, crocodiles and alligators!
