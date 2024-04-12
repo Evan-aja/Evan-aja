@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm a: Informatics Engineering student in the University of Brawijaya
-- 🌱 I’m currently learning: GO, Docker, and Kubernetes
-- 📫 How to reach me: [instagram](https://www.instagram.com/gabrielevan20/)
-- 😄 Pronouns: He/Him
+- 🔭 I'm a: Fresh graduate of University of Brawijaya, and currently working full-time at Dana Indonesia as SRE
+- 🌱 I’m currently learning: Automation, Containerization, Monitoring, and Cluster computing
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielle-farrel/)
 - ⚡ Fun fact: Turtles belong to one of the oldest reptile groups in the world – beating snakes, crocodiles and alligators!
 
 <!-- [![Evan-aja's github stats](https://github-readme-stats.vercel.app/api?username=Evan-aja&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
